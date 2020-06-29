@@ -1,0 +1,1 @@
+pyinstaller --additional-hooks-dir=. entry_flask.py entry_predictive.py Lasso_regression.py linear_reg_original.py RandomForestRegressor.py relationship.py RidgeRegression.py chi_sqr_importance.py chi_sqr_original.py pearson_corr_original.py  entry.py FPGrowth.py KMeans.py SentimentAnalysis.py Forecasting.py

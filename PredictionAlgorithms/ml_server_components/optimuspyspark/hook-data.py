@@ -1,0 +1,1 @@
+hiddenimports = ['_proxy', 'utils', 'defs', '_strptime']
